@@ -1,0 +1,63 @@
+project:
+  type: website
+
+lang: es
+date-format: iso
+
+execute:
+    freeze: auto
+
+website:
+  title: "GEOBOTA en el XII Congreso Colombiano de Botánica"
+  description: "GEOBOTA en el XII Congreso Colombiano de Botánica Madrid 2024"
+  site-url: https://geobota.github.io/xii-ccb-2024
+  repo-url: https://github.com/geobota/xii-ccb-2024
+
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+  google-analytics:
+    tracking-id: "G-LKGW209QWV"
+    anonymize-ip: true
+
+  twitter-card:
+    card-style: summary_large_image
+
+  open-graph: true
+
+  navbar:
+  # logo: images/logo_aerobiologia.png
+    right:
+      - text: Inicio
+        href: index.qmd
+      - text: "Cursos"
+        menu:
+          - text: "Etnobotánica Cuantitativa en R"
+            href: https://geobota.github.io/xii-ccb-etnobotanica/
+          - text: "Introducción a la Aerobiología"
+            href: https://geobota.github.io/xii-ccb-aerobiologia/
+          - text: "Investigación Reproducible con Quarto"
+            href: https://geobota.github.io/xii-ccb-quarto/
+      - text: "XII CCB"
+        href: https://congresobotanica.org/
+      - text: "ACB"
+        href: https://asociacioncolombianadebotanica.com/
+      - text: "GEOBOTA"
+        href: http://geobota.github.io/
+      - icon: facebook
+        href: https://www.facebook.com/geobotaudea/
+      - icon: instagram
+        href: https://www.instagram.com/geobotaudea/
+      - icon: github
+        href: https://github.com/geobota/xii-ccb-2024/
+        
+
+  page-footer:
+    center: Made by [\@alexespinocaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
