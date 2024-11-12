@@ -1,0 +1,41 @@
+---
+title: "Aproximación al conocimiento ancestral de algunas plantas útiles para la comunidad Misak en tres localidades de Silvia, Cauca"
+author:
+  - name: "Joan Sebatián Vásquez-Peña"
+    email: joan.vasquez@udea.edu.co
+    affiliation:  "Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    # orcid: 0000-0000-0000-0000
+    # url: /people/apellido-apellido_nombre/index.qmd
+  - name: "Felipe Alfonso Cardona-Naranjo"
+    email: felipe.cardona@udea.edu.co
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0009-0008-6232-7371
+    # url: /people/cardona-naranjo_felipe-alfonso/index.qmd
+date: "2024-11-06 14:00"
+
+categories:
+  - Comunidades indígenas
+  - Diversidad
+  - Etnobotánica
+  - Misak
+  - Páramo
+
+# draft: true
+---
+
+## Resumen
+
+El departamento del Cauca es uno de los territorios con mayor población indígena en el país. Dentro de sus comunidades se encuentran los Misak, un pueblo originario que habita las estribaciones del flanco occidental de la cordillera central; estando rodeados por los páramos de Moras y las Delicias. El vínculo histórico que ha tejido está comunidad con los ecosistemas altoandino y paramunos nos relata una relación estrecha con los organismos vegetales que habitan estos lugares y el conocimiento ancestral de la comunidad. Apoyado por la comunidad que habita el Jardín Botánico las Delicias, ubicada en el resguardo de San Fernando se realizaron entrevistas semiestructuradas, recorridos y colectas libres de especies vegetales con usos etnobotánicos en las localidades de San Fernando, La laguna el Abejorro y la laguna de Ñimbe en los páramos de las Delicias y Moras respectivamente. Se colectaron alrededor de 45 especies, pertenecientes a 37 géneros y 26 familias que presentan uno o varios usos para la comunidad. Los usos reportados son: mágico-religiosos, medicinales, comestibles, artesanales y de construcción. La familia más representativa fue la familia Asteraceae con 8 especies, seguida de Ericaceae con 4 especies. Este trabajo amplia y aporta a la conservación del conocimiento etnobotánico de la comunidad Misak, además destaca la necesidad de integrar el conocimiento ancestral en las estrategias de conservación de los ecosistemas altoandinos. Promover la conservación biocultural, que incluye tanto la protección del ecosistema como el fortalecimiento del conocimiento tradicional, es esencial para enfrentar los desafíos ambientales actuales y futuros, asegurando la preservación de los bosques, páramos y la herencia cultural indígena.
+
+<!-- ## Póster -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

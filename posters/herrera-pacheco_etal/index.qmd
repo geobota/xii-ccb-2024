@@ -1,0 +1,46 @@
+---
+title: "Descripción detallada del género *Arawakia* L. Marinho (Clusiaceae s.s.) y descripción morfológica del polen"
+author:
+  - name: "Mayra Alejandra Herrera-Pacheco"
+    email: mayraalehpa@gmail.com
+    affiliation: 
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0009-0009-5005-0405
+    # url: /people/herrera-pacheco_mayra-alejandra/index.qmd
+  - name: "Lucas Cardoso Marinho"
+    # email: correo@correo.com
+    affiliation: "Grupo de Pesquisa em Sistemática e Taxonomia de Angiospermas, Departamento de Biología, Universidade Federal do Maranhão"
+    orcid: 0000-0003-1263-3414
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-08 14:00"
+
+categories:
+  - Caracterización morfológica
+  - Caracterización polínica
+  - Taxonomía vegetal
+
+# draft: true
+---
+
+## Resumen
+
+El género *Arawakia*, de la familia Clusiaceae s.s., fue reconocido en 2019 como independiente taxonómicamente de *Tovomita*, previamente incluido en el complejo T. weddelliana. *Arawakia* abarca 18 especies que se distribuyen desde Nicaragua hasta la Amazonia boliviana, con mayor incidencia en Colombia. El objetivo de este trabajo es proporcionar una descripción completa e ilustrada del género, abordando la morfología, distribución geográfica, características distintivas y morfología del polen, complementando la diagnosis inicial publicada por Marinho y colaboradores (2019). La descripción se basa en análisis morfológicos detallados de especímenes de los herbarios A, GH, K, P y W, y en análisis morfométricos de Gahagen y colaboradores (2015). El polen se observó mediante microscopía electrónica en *A. lanceolata* y *A. macrocarpa*. El género se caracteriza por su hábito arbóreo o arbustivo, hojas opuestas y subsésiles, entrenudos con longitudes distribuidas equitativamente y margen del entrenudo visible. La inflorescencia es terminal dicásica, generalmente colgante con brácteas presentes, flores estaminadas con estambres libres y flores pistiladas con estaminodios similares a estambres. Las cápsulas son carnosas, verdes inmaduras y rojizas purpúreas al madurar. El polen presenta exina psilada-rugulada, similar a algunas especies de *Tovomita.* Los resultados indican que *Arawakia* se distingue por su inflorescencia, base de los pecíolos unidas por una línea oscura y elevada, base de la hoja gradualmente estrechada, truncada o abruptamente redondeada, y brotes florales encerrados por sépalos externos. No obstante, aún no se han diferenciado adecuadamente los especímenes pistilados y estaminados, y persiste un vacío de información sobre las piezas florales, especialmente el número de pétalos, estambres y carpelos, caracteres cruciales para la correcta separación de las especies. Este trabajo establece una base sólida para la identificación y clasificación de *Arawakia*, subrayando la necesidad de más investigaciones mediante la recolección de material botánico.
+
+<!-- ## Póster -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

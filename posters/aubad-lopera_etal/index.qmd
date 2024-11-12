@@ -1,0 +1,48 @@
+---
+title: "Mapeando los yarumos de Medellín, un proyecto de ciencia ciudadana en mejora de la calidad del aire"
+author:
+  - name: "Laura Maria Aubad Lopera"
+    email: lauraaubad210310@correo.itm.edu.co
+    affiliation: 
+      - id: itm
+        name: "Semillero de investigación Infraverde, Línea de Vegetación e Infraestructura. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+  - name: "Daniela Gutierrez Medina"
+    email: danielagutierrez307474@correo.itm.edu.co
+    affiliation:
+      - ref: itm
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0002-7353-1182
+    # url: /people/espinosa-correa_alex/index.qmd
+  - name: "Bladimir Vera Marín"
+    email: bladimirvera4395@correo.itm.edu.co
+    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    orcid: 0000-0003-3275-5611
+date: "2024-11-06 14:00"
+
+categories:
+  - Aerobiología
+  - Árbol urbano
+  - Ciencia ciudadana
+  - Cecropia
+  - OpenStreetMap
+
+# draft: true
+---
+
+## Resumen
+
+Los yarumos son árboles emblemáticos del Neotrópico, pertenecen al género *Cecropia* (Urticaceae), engloban más de 27 especies en Colombia. En la ciudad de Medellín se pueden encontrar solo tres especies: *Cecropia angustifolia* Trécul, *Cecropia peltata* L., y *Cecropia telenitida* Cuatrec. *Cecropia* es usada medicinal y ornamentalmente, adaptándose a diferentes suelos y lugares además de que no se enferman con facilidad. Actualmente, los yarumos han cobrado especial interés en la aerobiología de la ciudad, puesto que estudios realizados entre 2019 y 2022, revelan que el polen de este género es el más abundante en el aire de Medellín, lo que ha resultado en un aumento de alergias entre los habitantes. Por ello, es vital conocer las especies de este género, ya que contribuye significativamente a mejorar la calidad del aire. El objetivo principal de este proyecto fue mapear los yarumos, para conocer la cantidad de árboles y su ubicación. Esta información es pertinente para crear hipótesis y decidir sobre la incidencia de este género en la salud de los habitantes de la ciudad. Con ayuda del Sistema de Árbol Urbano se registraron 1452 individuos del género en la ciudad siendo *C. peltata* la más abundante con un 67 %, seguida de *C. telenitida* con 21 % y por último la *C. angustifolia* con 12 % en los registros. Las comunas El Poblado y la Candelaria son las que presentan mayores registros de estas especies. En conclusión se considera que el mapeo de los yarumos en Medellín ha permitido identificar su abundancia y distribución, lo cual es crucial para evaluar su impacto en la salud pública y fomentar la participación ciudadana la con la herramienta OpenStreetMap obteniendo un trabajo colaborativo que contribuya al conocimiento local y apoyar los estudios aerobiológicos. 
+
+<!-- ## Póster -->
+
+<!-- ```{=html} -->
+<!-- <object data="poster_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="poster_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
