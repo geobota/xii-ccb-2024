@@ -1,0 +1,40 @@
+---
+title: "Influencia de las variables meteorológicas y de los contaminantes atmosféricos sobre el polen aerovagante en Medellín, Colombia"
+author:
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0002-7353-1182
+    # url: /people/espinosa-correa_alex/index.qmd
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-07 16:30"
+
+categories:
+  - Aerobiología
+  - Neotrópico
+  - Palinología
+  - Polinosis
+
+# draft: true
+---
+
+## Resumen
+
+La aerobiología es una ciencia interdisciplinaria que estudia las partículas de origen biológico pasivamente aerotransportadas (biopartículas), con la mayoría de estudios desarrollados en zonas templadas, aunque recientemente se ha evidenciado un creciente interés en las zonas tropicales. En estas regiones se han identificado biopartículas exclusivas con comportamientos y características únicas en comparación con otras áreas. Sin embargo, los estudios en zonas tropicales han sido limitados tanto en tiempo como en análisis.Entre junio de 2019 y septiembre de 2022, se realizó un muestreo aerobiológico en Medellín (Colombia) utilizando un captador tipo Hirst para recolectar el polen presente en la atmósfera. Se realizaron correlaciones de Spearman con parámetros meteorológicos (humedad relativa, precipitación, temperatura y velocidad del viento) y contaminantes atmosféricos (PM~2.5~, PM~10~, NO~x~). Se encontraron granos de polen todos los días muestreados. La Integral Anual de Polen (APIn) durante los tres años de muestreo fue de 40620, 45042 y 37723 polen\*día/m^3^, respectivamente. Se identificaron 26 tipos polínicos, siendo los más abundantes: Cecropia (44%), Urticaceae (20%), Fraxinus (9%), Cupressaceae (8%), Moraceae (7%), Poaceae (4%), Myrtaceae (2%) y Pinus (1%). Las concentraciones diarias más altas de polen se registraron durante los meses con menos lluvia (diciembre-enero y julio-agosto). Las mayores concentraciones horarias se produjeron alrededor del mediodía, excepto para Cecropia, cuyo pico de concentración ocurrió entre las 20:00 y las 01:00. La humedad relativa, las precipitaciones, PM~2.5~ y NO~x~ mostraron correlaciones negativas significativas, mientras que la temperatura, la velocidad del viento y PM10 mostraron correlaciones positivas significativas. Estos resultados subrayan la influencia de las variables atmosféricas sobre el polen en el aire en una ciudad tropical y sugieren el potencial uso del polen como indicador de la calidad del aire en el entorno urbano.
+
+## Presentación
+
+<!-- ```{=html} -->
+<!-- <iframe class="slide-deck" src="presentacion_xii-ccb.html" title="Presentación XII CCB"></iframe> -->
+<!-- ``` -->
+
+Si no puedes ver la presentación, mírala haciendo [clic aquí](presentacion_xii-ccb.html).
+
+<!-- ## Citación -->

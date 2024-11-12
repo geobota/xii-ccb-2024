@@ -1,0 +1,52 @@
+---
+title: "Etnobotánica de los helechos de la comunidad afrodescendiente en el Alto Atrato-Chocó, Colombia"
+author:
+  - name: "Jhon Freddys Pérez-Mosquera"
+    email: jhon.perezm@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+      - id: utch
+        namen: "Grupo de investigación de Biosistemática, Departamento de Biología, Programa de Biología, Facultad de Ciencias Naturales y Exactas, Universidad Tecnológica del Chocó Diego Luis Córdoba"
+    orcid: 0000-0002-6656-9932
+    # url: /people/perez-mosquera_jhon-freddys/index.qmd
+  - name: "Bladimir Vera Marín"
+    email: bladimirvera4395@correo.itm.edu.co
+    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    orcid: 0000-0003-3275-5611
+  - name: "Mario Alberto Quijano-Abril"
+    email: maquijano@uco.edu.co
+    affiliation: "Grupo de Estudios Florísticos, Facultad de Ingenierías, Universidad Católica de Oriente"
+    orcid: 0000-0002-4242-8799
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-06 09:55"
+
+categories:
+  - Chocó
+  - Comunidad
+  - Conocimiento tradicional
+  - Plantas medicinales
+
+# draft: true
+---
+
+## Resumen
+
+Los monilofitos son un grupo de helechos, cuyos reportes de manejo cultural son escasos en Colombia. Sin embargo, se reportan usos ornamentales, medicinales y de construcción por pueblos afrodescendientes, campesinos e indígenas. En el departamento del Chocó, los estudios etnobotánicos enfocado en los helechos son limitados. Por ello, se plantea como objetivo analizar la diversidad de usos culturales de los monilofitos reportada por los habitantes afrodescendientes del municipio de Bagadó, Chocó, mediante entrevistas semiestructuradas y diálogos abiertos con 17 sabedores. Además, se hicieron recorridos libres con el acompañamiento de los sabedores para colectar los especímenes, bajo el permiso del Consejo Comunitario Mayor de la Organización Campesina y Popular del Alto Atrato (COCOMOPOCA). Los helechos recolectados se identificaron taxonómicamente y se depositaron en el Herbario de la Universidad de Antioquia. Los usos registrados se categorizaron en medicinal, cultural, construcción entre otras, con los cuales se estimaron los índices de Importancia Cultural (IC) y Frecuencia Relativa de Citación (FRC). Obteniendo como resultado 17 especies de monilofitos, agrupadas en siete familias botánicas, 10 géneros y 11 nombres comunes. *Pityrogramma calomelanos* (ensarta micuo) presentó el mayor IC (1.294), seguido de *Cyathea trichiata* (Tasí hembra) (0.706) y *C. darienensis* (Tasí macho) (0.588). En cuanto a la FRC, *C. trichiata* y *P. calomelanos* compartieron el valor más alto (0.667), seguidos de *C. darienensis* (0.533) y *C. decorata* (0.467). La categoría de uso más frecuente fue medicinal (fiebre, diarrea, accidentes ofídicos), presente en el 64.7% de los registros. Se concluye que el género *Cyathea* presentó el valor más alto de importancia cultural dado el valor de uso del conocimiento tradicional sobre los helechos por lo que es crucial promover la investigación y conservación de estas plantas, asociados a prácticas culturales de los pueblos afrodescendientes.
+
+## Presentación
+
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

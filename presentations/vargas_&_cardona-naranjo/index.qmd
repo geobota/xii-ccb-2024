@@ -1,0 +1,38 @@
+---
+title: "Un encuentro inesperado: *Spathiphyllum wallisii* Regel, una especie de la que no se tenía noticia desde 1877"
+author:
+  - name: "William Vargas"
+    email: williamvarg@gmail.com
+    affiliation: "Corporación Paisajes Rurales"
+    # orcid: 0000-0000-0000-0000
+  - name: "Felipe Alfonso Cardona-Naranjo"
+    email: felipe.cardona@udea.edu.co
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0009-0008-6232-7371
+    # url: /people/cardona-naranjo_felipe-alfonso/index.qmd
+date: "2024-11-05"
+
+categories:
+  - Extinta en estado silvestre
+  - Redescubrimiento
+  - Spathiphyllum
+
+# draft: true
+---
+
+## Resumen
+
+Esta planta, descrita en 1877, y colectada en Antioquia o norte de Colombia, se encuentra en la actualidad en la categoría EW (extinto en estado silvestre), los especímenes conocidos han sido recolectados en jardines botánicos, pues es una de las especies más cultivadas del género. *Spatiphyllum* comprende unas 80 especies de Centroamérica y el norte de Suramérica, de ellas, unas 30 se encuentran en Colombia, siendo propias de suelos arenosos o arcillosos con altos porcentajes de humedad, algunas suelen formar grandes colonias. Durante muchos años se han buscado sin éxito poblaciones naturales de esta especie, tarea poco sencilla, pues no es clara la localidad tipo. Igual que para muchas especies, el deterioro y la pérdida de hábitat están entre las principales causas de desaparición, especialmente de aquellas de hábitats específicos y con altos requerimientos. Por otro lado, la belleza juega un papel adverso para las poblaciones, propiciándose la extracción de plantas para ser vendidas o cultivadas, esta es la realidad a la que han sido sometidas miles de especies que hoy se encuentran en colecciones privadas o en los jardines de las ciudades. Durante una serie de recorridos y exploraciones realizadas en el piedemonte de los Montes de María en el departamento de Sucre en 2024, se encontraron varias poblaciones pequeñas al lado de una quebrada, los especímenes recolectados confirmaron que se trata de individuos silvestres de *Spatiphyllum wallisii*. Esta población, que no supera los cincuenta individuos, se encuentra dispersa y comparte hábitat con otra especie del género sin identificar. Se encuentra altamente amenazada por el deterioro del hábitat, calentamiento global y extracción de plantas. La restauración de los bosques de la zona, emprendida en la actualidad por Pnud, Paisajes Rurales y la comunidad, puede ayudar a su conservación, además del trabajo en vivero para propagarla y generar nuevas colonias.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

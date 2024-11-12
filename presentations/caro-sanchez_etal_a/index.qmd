@@ -1,0 +1,56 @@
+---
+title: "Las desconocidas y poco comunes flores de *Chrysochlamys* (Clusiaceae): implicaciones taxonómicas"
+author:
+  - name: "Angy Vanesa Caro-Sánchez"
+    email: angy.caro@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0001-8751-7931
+    # url: /people/caro-sanchez-angy-vanesa/index.qmd
+  - name: "Manuel Luján"
+    # email: correo@correo.com
+    affiliation: "Kew Royal Botanic Gardens"
+    orcid: 0000-0001-6822-7269
+  - name: "Lucas Cardoso Marinho"
+    # email: correo@correo.com
+    affiliation: "Grupo de Pesquisa em Sistemática e Taxonomia de Angiospermas, Departamento de Biología, Universidade Federal do Maranhão"
+    orcid: 0000-0003-1263-3414
+  - name: "Álvaro Idárraga-Piedrahíta"
+    # email: correo@correo.com
+    affiliation: "Fundación Jardín Botánico de Medellín"
+    orcid: 0000-0002-4823-8849
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-08 10:00"
+
+categories:
+  - Colecciones de herbario
+  - Morfotipo estaminado
+  - Morfotipo pistilado
+  - Resinas florales
+  - Tribu Clusieae
+
+# draft: true
+---
+
+## Resumen
+
+Las especies del género neotropical *Chrysochlamys* son notables por presentar dos características reproductivas poco comunes: todas son dioicas, reportado en el 6% de las Angiospermas; y puede encontrarse resina en sus flores como recompensa para polinizadores, reportado únicamente en cinco géneros de Angiospermas. A pesar de esta excepcionalidad poco se ha estudiado sobre la morfología floral de *Chrysochlamys*. Por un lado, las diagnosis de la mayoría de las especies no incluyen ambos morfotipos sexuales. Por otro lado, en la clasificación infragenérica, propuesta por Planchon y Triana en 1860, se evaluaron únicamente las flores estaminadas. En este estudio se propone describir la diversidad morfológica de las flores estaminadas y pistiladas de *Chrysochlamys* a lo largo de su rango de distribución. Los principales resultados incluyen la actualización de la clasificación infragenérica y un recuento histórico de la terminología utilizada por diferentes autores para interpretar y describir los sistemas sexuales y la conespecificidad de sus especies. Se describieron secciones y morfotipos que no se habían reportado previamente. Se completaron descripciones de especies publicadas a partir de un solo morfotipo sexual y se proporcionó una clave taxonómica, figuras e ilustraciones científicas. Las estructuras con mayor variabilidad, intra e interespecífica, son los estaminodios y los estambres, principalmente en rasgos como grado de fusión y disposición. En Mesoamérica predominan estaminodios y estambres aparentemente libres mientras en Sudamérica es común encontrar diferentes grados de fusión en estas estructuras. Las resinas florales se producen en más morfotipos que los previamente reportados. Este es el primer estudio morfológico que se realiza para *Chrysochlamys* en todo su rango de distribución y provee datos importantes para subsecuentes estudios sistemáticos y evolutivos.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

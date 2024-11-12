@@ -1,0 +1,35 @@
+---
+title: "¿Por qué no lo hiciste en Microsoft Word? Cómo hacer una tesis doctoral reproducible usando R y Quarto"
+author:
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0002-7353-1182
+    # url: /people/espinosa-correa_alex/index.qmd
+date: "2024-11-07 09:30"
+
+categories:
+  - Aeropalinología
+  - Ciencia abierta
+  - Control de versiones
+  - Flujo de trabajo
+  - Reproducibilidad
+
+# draft: true
+---
+
+## Resumen
+
+La reproducibilidad, esencial para la credibilidad científica, permite obtener resultados consistentes con los mismos datos, métodos y código. La ciencia enfrenta una crisis de reproducibilidad por la incapacidad de reproducir muchas investigaciones publicadas, debido a la falta de publicación de datos brutos, prácticas como el HARKing y el p-hacking, el diseño deficiente y factores externos como el sesgo de publicación y la cultura de "publicar o perecer". La botánica y la aeropalinología no están exentas de esta crisis, aunque se han hecho avances para mitigar algunos de estos factores. En este contexto, durante una tesis doctoral en aeropalinología en Medellín, se diseñó un flujo de trabajo para que los productos de investigación (análisis, gráficos y manuscritos) sean reproducibles. El flujo de trabajo se basa en el uso del lenguaje de programación R, el sistema de escritura y publicación Quarto, el control de versiones Git, integrados en el entorno de desarrollo interactivo RStudio y sincronizados con GitHub. El flujo de trabajo consiste en: 1. Crear un proyecto de RStudio con control de versiones integrado con GitHub (manualmente o usando el paquete usethis), que contenga carpetas organizadas lógicamente y los datos brutos necesarios. 2. Crear un entorno reproducible usando el paquete renv. 3. Crear un proyecto de Quarto (Libro o Manuscrito). 4. Crear archivos .qmd para integrar el texto narrativo y el código de R para el análisis de datos y creación de gráficos usando los paquetes necesarios (easystats, gt, janitor, tidyverse, etc.), pudiendo crear scripts que se importan a los .qmd. 5. Utilizar paquetes como here para el uso de rutas relativas. 6. Renderizar y publicar utilizando Quarto, con la opción de usar extensiones. Este enfoque no solo mejora la reproducibilidad, sino que sirve de punto de partida para investigaciones en aeropalinología y otras disciplinas científicas.
+
+## Presentación
+
+<!-- ```{=html} -->
+<!-- <iframe class="slide-deck" src="presentacion_xii-ccb.html" title="Presentación XII CCB"></iframe> -->
+<!-- ``` -->
+
+Si no puedes ver la presentación, mírala haciendo [clic aquí](presentacion_xii-ccb.html).
+
+<!-- ## Citación -->

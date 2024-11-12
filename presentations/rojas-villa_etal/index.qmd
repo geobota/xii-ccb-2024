@@ -1,0 +1,52 @@
+---
+title: "Latencia de semillas en páramos colombianos: anatomía, histoquímica y desarrollo de plántulas"
+author:
+  - name: "Jose Miguel Rojas-Villa"
+    email: miguel.rojas4@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0002-6656-9932
+    # url: /people/rojas-villa_jose-miguel/index.qmd
+  - name: "Mario Alberto Quijano-Abril"
+    email: maquijano@uco.edu.co
+    affiliation: "Grupo de Estudios Florísticos, Facultad de Ingenierías, Universidad Católica de Oriente"
+    orcid: 0000-0002-4242-8799
+  - name: "Jenny Paola Corredor-Prado"
+    email: jenny.corredor@unisucre.edu.co
+    affiliation: "Departamento de Biología y Química, Universidad de Sucre"
+    orcid: 0000-0002-4605-9740
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-07 16:00"
+
+categories:
+  - Anatomía de las semillas
+  - Angiosperma
+  - Dormancia morfofisiológica
+  - Embrión subdesarrollado
+  - Endosperma
+  - Proteína
+
+# draft: true
+---
+
+## Resumen
+
+Las semillas son estructuras eficientes de propagación de las plantas. Muchas especies pueden formar semillas con rasgos morfológicos y germinativos que les permiten permanecer viables por mucho tiempo, en un estado de latencia. La latencia puede ayudar a entender la biología reproductiva de plantas en ecosistemas de gran importancia como los páramos. Sin embargo, se conocen pocos trabajos relacionados con la morfoanatómica, latencia y de las plántulas de páramo. El objetivo de este trabajo fue caracterizar la anatomía e histoquímica de las semillas, la clase de latencia y el desarrollo de las plántulas de páramos. Se recolectaron semillas pertenecientes a 15 especies de plantas de los principales grupos de Angiosperma (Magnoliidae, Monocotiledonea, Eudicotiledonea basal, Rosidos y Asteridos), con la intención de hacer una comparación de los rasgos descritos en un contexto filogenético. Se obtuvieron secciones anatómicas de 10-20 semillas por especie, y se aplicaron tinciones diferenciales para el análisis histoquímico. Además, se hicieron ensayos de germinación para determinar la latencia de las semillas y se describió el desarrollo morfológico de las plántulas. Nuestros hallazgos revelan una mayor prevalencia de embriones subdesarrollados y almacenamientos de proteínas en semillas de las plantas analizadas. Doce especies presentan semillas con diferentes tipos de latencia: morfofisiológica (8), fisiofísica (2) y fisiológica (2). La mayoría de las semillas presentó germinación epigea con plántulas provistas de cotiledones fotosintético. Nuestro estudio arroja luz sobre enigmáticos rasgos anatómicos, histoquímicos y de latencia de las semillas, contribuyendo a entender la biología reproductiva de estas plantas. Las semillas analizadas presentan una amplia plasticidad anatómica, pero con la presencia de rasgos convergentes, como un embrión subdesarrollado y almacenamiento de proteínas, que pueden estar relacionados con la supervivencia de estas especies en condiciones climáticas drásticas y el desarrollo de latencia morfofisiológica.
+
+## Presentación
+
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

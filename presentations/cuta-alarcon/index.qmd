@@ -1,0 +1,57 @@
+---
+title: "Colonización de epífitas no vasculares asociadas al área de rehabilitación ecológica de un relicto de bosque secundario en Carepa- Antioquia"
+author:
+  - name: "Lia Esperanza Cuta-Alarcón"
+    email: liaesperanza3008@gmail.com
+    affiliation:
+      - id: hua
+        name: "Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0001-7778-6716
+  - name: "Maribel Herrera-Palma"
+    # email: correo@udea.edu.co
+    affiliation:
+      - ref: hua
+    orcid: 0009-0001-0560-8731
+  - name: "Felipe Alfonso Cardona-Naranjo"
+    email: felipe.cardona@udea.edu.co
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0009-0008-6232-7371
+    # url: /people/cardona-naranjo_felipe-alfonso/index.qmd
+  - name: "Alejandro Marín-Ortega"
+    # email: correo@correo.com
+    affiliation:
+      - id: epm
+        name:: "Empresas públicas de Medellín EPM"
+    # orcid: 0000-0000-0000-0000
+  - name: "Carlos Andrés Gutierrez"
+    # email: correo@correo.com
+    affiliation:
+      - ref: epm
+    # orcid: 0000-0000-0000-0000
+date: "2024-11-07 16:45"
+
+categories:
+  - Briófitos
+  - Colonización
+  - Estratificación vertical
+  - Rehabilitación ecológica
+
+# draft: true
+---
+
+## Resumen
+
+Los ecosistemas boscosos tropicales han presentado graves transformaciones como la eliminación de la comunidad de plantas leñosas, ello interrumpe procesos y funciones importantes que se desarrollan en los bosques, lo cual genera que las comunidades de epífitas no vasculares presenten reducción de área de ocupación junto con la perdida de diversidad. Como parte de la compensación y rehabilitación ecológica del proyecto “Conexión Urabá- Nueva Colonia-Apartadó” de EPM y, mediante el convenio de Cooperación CT-2023-000604 entre la Universidad de Antioquia y EPM, se eligió como sitio para la rehabilitación la sede de estudios ecológicos y agroambientales de la Universidad de Antioquia (Tulenapa) ubicada en el municipio de Carepa, Antioquia. Allí se sembraron alrededor de 1440 árboles de especies nativas de interés, endémicas o con alguna categoría de amenaza buscando proporcionar hospederos para la colonización de epífitas no vasculares (briófitos y líquenes). Para evaluar la colonización y avance en la recuperación de hábitat, se realizó el muestreo de 310 de los árboles sembrados, elegidos aleatoriamente y posterior a los 18 meses de siembra. Se muestrearon dos estratos verticales en cada árbol (base y tronco), estableciendo una sola replica por estrato de 400 cm2 y de allí se retiró por lo menos una muestra de cada morfoespecie. El material colectado fue identificado en el Herbario de la Universidad de Antioquia (HUA). Se registraron en total 27 especies: 16 hepáticas, 10 líquenes y un musgo. Los líquenes son el grupo más representativo en las primeras etapas de la rehabilitación ecológica, principalmente aquellos de talo costroso como *Cryptothecia striata* y *Piccolia ochrophora*. La especie de árbol que presentó mayor crecimiento en cobertura fue *Chloroleucon mangense*. Destacan también *Prioria copaifera*, P*latymiscium pinnatum* y *Anacardium excelsum* como especies que favorecen el establecimiento de mayor número de agregados poblacionales de epífitas no vasculares por el tipo de corteza.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

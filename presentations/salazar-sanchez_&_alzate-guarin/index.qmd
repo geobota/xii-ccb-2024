@@ -1,0 +1,45 @@
+---
+title: "Ericáceas de los páramos de Antioquia"
+author:
+  - name: "Manuela Salazar Sánchez"
+    email: manuela.salazars@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0002-1634-4735
+    # url: /people/salazar-sanchez_manuela/index.qmd
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-08 09:15"
+
+categories:
+  - Colombia
+  - Ecosistemas altoandinos
+  - Diversidad
+  - Ericales
+  - Flora neotropical
+  - Taxonomía
+
+# draft: true
+---
+
+## Resumen
+
+Ericaceae es una familia con distribución cosmopolita distribuida en las zonas templadas y tropicales del mundo. Colombia, con 277 especies reportadas, es el país más diverso a nivel mundial en ericáceas. Antioquia alberga 120-140 especies agrupadas en 19 géneros, convirtiéndolo en el departamento con la mayor riqueza de especies de la familia en el país. La alta diversidad de la familia registrada para el norte de los Andes se ha atribuido al levantamiento de los Andes, lo cual les permitió establecerse en diversos ambientes y alcanzar altitudes entre los 0 y 4500 m de elevación. Estudios previos ubican a Ericaceae en el quinto lugar de riqueza en los páramos de Antioquia, donde constituyen un componente florístico típico, se han reportado 30 especies agrupadas en 11 géneros en los seis complejos de páramos del departamento. A partir de la revisión de los herbarios regionales más importantes de Antioquia y de bases de datos en línea, se logró actualizar el listado de especies y géneros de la familia en los páramos de Antioquia, alcanzando 42 especies y 14 géneros, entre los cuales se incluyen nuevos registros para el departamento. Se presenta una clave dicotómica a nivel de géneros y se ilustran y discuten algunos de los caracteres más importantes para delimitar las especies y géneros de la familia. Se anexa el listado de especies y de colectores. A partir de este estudio se demuestra la importancia de las investigaciones llevadas a cabo desde las colecciones biológicas y la necesidad de seguir muestreando en este ecosistema tan frágil en términos ecológicos y ecosistémicos, enfocando esfuerzos de investigación en las especies y los páramos más vulnerables o de los que se tiene menos información disponible.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

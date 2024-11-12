@@ -1,0 +1,41 @@
+---
+title: "Título"
+author:
+  - name: "Miembro GEOBOTA"
+    email: correo@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0000-0000-0000
+    url: /people/apellidos-nombre/index.qmd
+  - name: "Otro"
+    email: correo@correo.com
+    affiliation: "Otra afiliación"
+    orcid: 0000-0000-0000-0000
+# date: ""
+
+categories:
+  - Categoría 1
+  - Categoría 2
+  - Categoría 3
+  - Categoría 4
+
+draft: true
+---
+
+## Resumen
+
+TEXTO
+
+## Presentación
+
+<!-- PDF -->
+```{=html}
+<object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540">
+    <p>Parece que no tienes un plugin PDF para este navegador.
+    No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí 
+    para descargar el archivo PDF.</a></p>
+</object>
+```
+
+<!-- ## Citación -->

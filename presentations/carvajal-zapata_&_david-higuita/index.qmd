@@ -1,0 +1,41 @@
+---
+title: "Análisis de la diversidad y distribución de la familia Rubiaceae en Antioquia: un estudio basado en registros botánicos del Herbario de la Universidad de Antioquia"
+author:
+  - name: "Alejandra Carvajal-Zapata"
+    email: carvajal.alejandra@uces.edu.co
+    affiliation: "Facultad de Ciencias y Biotecnología, Universidad CES"
+    orcid: 0000-0003-4457-2580
+  - name: "Heriberto Antonio David-Higuita"
+    email: heriberto.david@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0002-2430-2973
+    # url: /people/david-higuita_heriberto-antonio/index.qmd
+date: "2024-11-07 09:45"
+
+categories:
+  - Base de datos
+  - Colecciones botánicas
+  - HUA
+  - Riqueza.
+
+# draft: true
+---
+
+## Resumen
+
+La familia Rubiaceae, que cuenta con aproximadamente 580 géneros y más de 14,000 especies a nivel global, se destaca como la cuarta familia más diversa entre las angiospermas, con una distribución principalmente tropical. En Colombia, se reportan 118 géneros y alrededor de 1115 especies. A pesar de esta riqueza, aún persiste una notable brecha de conocimiento debido a la ausencia de un estudio exhaustivo y actualizado que compile la información de las colecciones botánicas del país. Este trabajo se centra en realizar un análisis inicial de la diversidad y distribución actual de la familia Rubiaceae en el departamento de Antioquia. Para ello, se utilizó Microsoft Excel para generar una base de datos con información de 10,049 especímenes depositados en el Herbario HUA. Posteriormente, se crearon mapas de distribución utilizando el software QGIS. Del total de registros, el 59.5% fueron recolectados en Antioquia, el 37% en otros departamentos de Colombia y el 3.5% en otros países. El Herbario HUA registra un total de 858 especies, de las cuales 745 son colombianas y 447 específicamente de Antioquia. El 39% de los ejemplares reportados para Antioquia fue determinado por especialistas de la familia Rubiaceae, como Charlotte Taylor, Brian M. Boom, Claes Persson y Piero Delprete. Además, se identificaron 157 colecciones tipo correspondientes a 45 especies diferentes. El herbario cuenta con muestras para el 94% de los municipios de Antioquia, destacándose géneros como *Palicourea*, *Psychotria*, *Notopleura* y *Faramea*, con 91, 45, 23 y 20 especies respectivamente. Este estudio representa un valioso aporte al conocimiento de la familia Rubiaceae en Antioquia, identificando áreas con alta y baja intensidad de muestreo. Asimismo, subraya la necesidad de futuras investigaciones para esclarecer la identidad de algunas especies y aprovechar el potencial de las colecciones biológicas en el proceso de documentar la diversidad vegetal en Colombia.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->

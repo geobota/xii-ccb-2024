@@ -1,0 +1,56 @@
+---
+title: "Nuevas especies de Clusiaceae de Colombia: reevaluando los límites morfológicos dentro de la tribu Clusieae"
+author:
+  - name: "Angy Vanesa Caro-Sánchez"
+    email: angy.caro@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0001-8751-7931
+    # url: /people/caro-sanchez-angy-vanesa/index.qmd
+  - name: "Manuel Luján"
+    # email: correo@correo.com
+    affiliation: "Kew Royal Botanic Gardens"
+    orcid: 0000-0001-6822-7269
+  - name: "Lucas Cardoso Marinho"
+    # email: correo@correo.com
+    affiliation: "Grupo de Pesquisa em Sistemática e Taxonomia de Angiospermas, Departamento de Biología, Universidade Federal do Maranhão"
+    orcid: 0000-0003-1263-3414
+  - name: "Álvaro Idárraga-Piedrahíta"
+    # email: correo@correo.com
+    affiliation: "Fundación Jardín Botánico de Medellín"
+    orcid: 0000-0002-4823-8849
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-08 10:15"
+
+categories:
+  - Chrysochlamys
+  - Clusia
+  - Flora neotropical
+  - Morfología
+  - Taxonomía
+
+# draft: true
+---
+
+## Resumen
+
+En estudios anteriores se ha estimado que el centro de diversidad de especies de Clusiaceae en el neotrópico son los Andes del Norte, incluyendo Colombia, Ecuador y Venezuela. Sin embargo no se han publicado tratamientos sistemáticos detallados o claves taxonómicas en ninguno de estos  países para los géneros que pertenecen a la tribu Clusieae, la cual se caracteriza por presentar morfotipos sexuales con flores pistiladas y estaminadas en individuos diferentes. Específicamente para Colombia se han reportado aproximadamente 170 especies de Clusieae: 9 *Arawakia*, 17 *Chrysochlamys*, aproximadamente 128 *Clusia*, 2 *Dystovomita* y 16 *Tovomita*; la mayoría se describieron sin incluir ambos morfotipos sexuales. Debido a estos vacíos de información la diversidad estos géneros ha sido hasta el momento subestimada y, en la mayoría de los herbarios, abundan los errores al designar individuos pistilados y estaminados a una misma especie, generando inestabilidad taxonómica. Durante la revisión de ejemplares de herbario para la resolución taxonómica de *Chrysochlamys* en Colombia identificamos al menos 15 taxones presuntamente no descritos de la tribu Clusieae, 12 pueden clasificarse como *Chrysochlamys*, sin embargo, tres de estos taxones no han podido asignarse inequívocamente dentro de un género conocido porque presentan caracteres morfológicos ambiguos. Ambos taxones presentan algunas características diagnósticas de *Chrysochlamys*: inflorescencias ramifloras, frutos con epicarpio blando, una semilla por carpelo, sépalos que no envuelven los botones; Sin embargo, el grado de fusión y la disposición de los estambres en las flores masculinas son más característicos del género *Clusia.* Teniendo en cuenta estos resultados nosotros consideramos que la información genómica es necesaria como una línea alternativa de evidencia para tomar decisiones taxonómicas sobre estos linajes que podrían ser nombrados nuevas especies o incluso nuevos géneros, por otro lado también consideramos que es importante redefinir los límites morfológicos dentro de la tribu Clusieae.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
