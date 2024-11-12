@@ -1,6 +1,35 @@
 ---
 title: "GEOBOTA en el XII Congreso Colombiano de Botánica"
 # subtitle: "Popayán, Colombia <br>Noviembre 4 al 8 del 2024"
+
+listing:
+  - id: presentations
+    contents: presentations/**/index.qmd
+    sort:
+      - "title"
+      - "author"
+      - "date desc"
+    type: grid
+    image-height: 225px
+    image-placeholder: images/placeholder.png
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, author]
+    grid-columns: 3
+    # page-size: 10
+
+  - id: posters
+    contents: posters/**/index.qmd
+    type: grid
+    image-height: 225px
+    image-placeholder: images/placeholder.png
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, author]
+    grid-columns: 3
+    # page-size: 10
 ---
 
 :::: {.grid}
@@ -50,12 +79,12 @@ Conoce todos los detallas haciendo clic en el nombre o en la imagen del curso.
 ::::
 :::::
 
-<!-- ## Ponencias {#sec-presentations} -->
+## Ponencias {#sec-presentations}
 
-<!-- ::: {#presentations} -->
-<!-- ::: -->
+::: {#presentations}
+:::
 
-<!-- ## Pósters {#sec-posters} -->
+## Pósters {#sec-posters}
 
-<!-- ::: {#posters} -->
-<!-- ::: -->
+::: {#posters}
+:::
