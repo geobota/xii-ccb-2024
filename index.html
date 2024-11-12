@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,6 +68,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Buscar"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-presentations .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-presentations'] = new List('listing-presentations', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-posters .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-posters'] = new List('listing-posters', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LKGW209QWV"></script>
 
 <script type="text/javascript">
@@ -76,6 +135,35 @@ gtag('js', new Date());
 gtag('config', 'G-LKGW209QWV', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="GEOBOTA en el XII Congreso Colombiano de Botánica">
@@ -176,6 +264,8 @@ gtag('config', 'G-LKGW209QWV', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#cursos" id="toc-cursos" class="nav-link active" data-scroll-target="#cursos">Cursos</a></li>
+  <li><a href="#sec-presentations" id="toc-sec-presentations" class="nav-link" data-scroll-target="#sec-presentations">Ponencias</a></li>
+  <li><a href="#sec-posters" id="toc-sec-posters" class="nav-link" data-scroll-target="#sec-posters">Pósters</a></li>
   </ul>
 </nav>
     </div>
@@ -248,12 +338,282 @@ gtag('config', 'G-LKGW209QWV', { 'anonymize_ip': true});
 </section>
 </div>
 </div>
-<!-- ## Ponencias {#sec-presentations} -->
-<!-- ::: {#presentations} -->
-<!-- ::: -->
-<!-- ## Pósters {#sec-posters} -->
-<!-- ::: {#posters} -->
-<!-- ::: -->
+</section>
+<section id="sec-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="sec-presentations">Ponencias</h2>
+<div id="listing-presentations" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="QmFzZSBkZSBkYXRvcyxDb2xlY2Npb25lcyBib3ThbmljYXMsSFVBLFJpcXVlemEu" data-listing-date-sort="1730990700000" data-listing-file-modified-sort="1731383354420" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="356">
+<a href="./presentations/carvajal-zapata_&amp;_david-higuita/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Análisis de la diversidad y distribución de la familia Rubiaceae en Antioquia: un estudio basado en registros botánicos del Herbario de la Universidad de Antioquia
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Alejandra Carvajal-Zapata, Heriberto Antonio David-Higuita
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="QnJp82ZpdG9zLENvbG9uaXphY2nzbixFc3RyYXRpZmljYWNp824gdmVydGljYWwsUmVoYWJpbGl0YWNp824gZWNvbPNnaWNh" data-listing-date-sort="1731015900000" data-listing-file-modified-sort="1731383349621" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="359">
+<a href="./presentations/cuta-alarcon/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Colonización de epífitas no vasculares asociadas al área de rehabilitación ecológica de un relicto de bosque secundario en Carepa- Antioquia
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Lia Esperanza Cuta-Alarcón, Maribel Herrera-Palma, Felipe Alfonso Cardona-Naranjo, Alejandro Marín-Ortega, Carlos Andrés Gutierrez
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Q29sb21iaWEsRWNvc2lzdGVtYXMgYWx0b2FuZGlub3MsRGl2ZXJzaWRhZCxFcmljYWxlcyxGbG9yYSBuZW90cm9waWNhbCxUYXhvbm9t7WE=" data-listing-date-sort="1731075300000" data-listing-file-modified-sort="1731383323054" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="340">
+<a href="./presentations/salazar-sanchez_&amp;_alzate-guarin/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ericáceas de los páramos de Antioquia
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Manuela Salazar Sánchez, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Q2hvY/MsQ29tdW5pZGFkLENvbm9jaW1pZW50byB0cmFkaWNpb25hbCxQbGFudGFzIG1lZGljaW5hbGVz" data-listing-date-sort="1730904900000" data-listing-file-modified-sort="1731383334541" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="342">
+<a href="./presentations/perez-mosquera/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Etnobotánica de los helechos de la comunidad afrodescendiente en el Alto Atrato-Chocó, Colombia
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Jhon Freddys Pérez-Mosquera, Bladimir Vera Marín, Mario Alberto Quijano-Abril, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="QWVyb2Jpb2xvZ+1hLE5lb3Ry83BpY28sUGFsaW5vbG9n7WEsUG9saW5vc2lz" data-listing-date-sort="1731015000000" data-listing-file-modified-sort="1731383341765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<a href="./presentations/espinosa-correa_&amp;_alzate-guarin/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Influencia de las variables meteorológicas y de los contaminantes atmosféricos sobre el polen aerovagante en Medellín, Colombia
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Álex Espinosa-Correa, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="QWVyb2Jpb2xvZ+1hLENvbnRhbWluYWNp824gYXRtb3Nm6XJpY2EsRU5TTyxQYWxpbm9sb2ftYSxQb2xpbm9zaXM=" data-listing-date-sort="1730987100000" data-listing-file-modified-sort="1731383374985" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
+<a href="./presentations/batista-florez_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Influencia del cambio climático sobre las concentraciones de polen aerovagante en la ciudad de Medellín, Colombia
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Yisela Melid Batista-Florez, Álex Espinosa-Correa, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Q29sZWNjaW9uZXMgZGUgaGVyYmFyaW8sTW9yZm90aXBvIGVzdGFtaW5hZG8sTW9yZm90aXBvIHBpc3RpbGFkbyxSZXNpbmFzIGZsb3JhbGVzLFRyaWJ1IENsdXNpZWFl" data-listing-date-sort="1731078000000" data-listing-file-modified-sort="1731383384267" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
+<a href="./presentations/caro-sanchez_etal_a/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Las desconocidas y poco comunes flores de <em>Chrysochlamys</em> (Clusiaceae): implicaciones taxonómicas
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Angy Vanesa Caro-Sánchez, Manuel Luján, Lucas Cardoso Marinho, Álvaro Idárraga-Piedrahíta, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="QW5hdG9t7WEgZGUgbGFzIHNlbWlsbGFzLEFuZ2lvc3Blcm1hLERvcm1hbmNpYSBtb3Jmb2Zpc2lvbPNnaWNhLEVtYnJp824gc3ViZGVzYXJyb2xsYWRvLEVuZG9zcGVybWEsUHJvdGXtbmE=" data-listing-date-sort="1731013200000" data-listing-file-modified-sort="1731383432120" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="343">
+<a href="./presentations/rojas-villa_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Latencia de semillas en páramos colombianos: anatomía, histoquímica y desarrollo de plántulas
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Jose Miguel Rojas-Villa, Mario Alberto Quijano-Abril, Jenny Paola Corredor-Prado, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Q2hyeXNvY2hsYW15cyxDbHVzaWEsRmxvcmEgbmVvdHJvcGljYWwsTW9yZm9sb2ftYSxUYXhvbm9t7WE=" data-listing-date-sort="1731078900000" data-listing-file-modified-sort="1731383363071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
+<a href="./presentations/caro-sanchez_etal_b/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Nuevas especies de Clusiaceae de Colombia: reevaluando los límites morfológicos dentro de la tribu Clusieae
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Angy Vanesa Caro-Sánchez, Manuel Luján, Lucas Cardoso Marinho, Álvaro Idárraga-Piedrahíta, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="RXh0aW50YSBlbiBlc3RhZG8gc2lsdmVzdHJlLFJlZGVzY3VicmltaWVudG8sU3BhdGhpcGh5bGx1bQ==" data-listing-date-sort="1730782800000" data-listing-file-modified-sort="1731383319477" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="359">
+<a href="./presentations/vargas_&amp;_cardona-naranjo/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Un encuentro inesperado: <em>Spathiphyllum wallisii</em> Regel, una especie de la que no se tenía noticia desde 1877
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+William Vargas, Felipe Alfonso Cardona-Naranjo
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="QWVyb3BhbGlub2xvZ+1hLENpZW5jaWEgYWJpZXJ0YSxDb250cm9sIGRlIHZlcnNpb25lcyxGbHVqbyBkZSB0cmFiYWpvLFJlcHJvZHVjaWJpbGlkYWQ=" data-listing-date-sort="1730989800000" data-listing-file-modified-sort="1731383345282" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
+<a href="./presentations/espinosa-correa/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+¿Por qué no lo hiciste en Microsoft Word? Cómo hacer una tesis doctoral reproducible usando R y Quarto
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+</section>
+<section id="sec-posters" class="level2">
+<h2 class="anchored" data-anchor-id="sec-posters">Pósters</h2>
+<div id="listing-posters" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Q29tdW5pZGFkZXMgaW5k7WdlbmFzLERpdmVyc2lkYWQsRXRub2JvdOFuaWNhLE1pc2FrLFDhcmFtbw==" data-listing-date-sort="1730919600000" data-listing-file-modified-sort="1731383650365" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
+<a href="./posters/vasquez-pena_&amp;_cardona-naranjo/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Aproximación al conocimiento ancestral de algunas plantas útiles para la comunidad Misak en tres localidades de Silvia, Cauca
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Joan Sebatián Vásquez-Peña, Felipe Alfonso Cardona-Naranjo
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Q2FyYWN0ZXJpemFjafNuIG1vcmZvbPNnaWNhLENhcmFjdGVyaXphY2nzbiBwb2ztbmljYSxUYXhvbm9t7WEgdmVnZXRhbA==" data-listing-date-sort="1731092400000" data-listing-file-modified-sort="1731383627030" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="349">
+<a href="./posters/herrera-pacheco_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Descripción detallada del género <em>Arawakia</em> L. Marinho (Clusiaceae s.s.) y descripción morfológica del polen
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Mayra Alejandra Herrera-Pacheco, Lucas Cardoso Marinho, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="RW1iZXLhLEV0bm9ib3ThbmljYSxFdG5vdGF4b25vbe1hLFNpdGlvcyBzYWdyYWRvcw==" data-listing-date-sort="1730919600000" data-listing-file-modified-sort="1731383642266" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<a href="./posters/upegui-castro_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Identificación de patrones lingüísticos Emberá en la taxonomía de plantas de la Serranía de Abibe
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Juanita Upegui-Castro, Simón Silva-Arroyave, Fernando Alveiro Alzate-Guarin
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="QWVyb2Jpb2xvZ+1hLMFyYm9sIHVyYmFubyxDaWVuY2lhIGNpdWRhZGFuYSxDZWNyb3BpYSxPcGVuU3RyZWV0TWFw" data-listing-date-sort="1730919600000" data-listing-file-modified-sort="1731383614896" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="346">
+<a href="./posters/aubad-lopera_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mapeando los yarumos de Medellín, un proyecto de ciencia ciudadana en mejora de la calidad del aire
+</h5>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Laura Maria Aubad Lopera, Daniela Gutierrez Medina, Álex Espinosa-Correa, Bladimir Vera Marín
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+
 
 
 </section>
