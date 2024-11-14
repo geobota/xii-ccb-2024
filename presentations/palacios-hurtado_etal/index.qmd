@@ -1,0 +1,100 @@
+---
+title: "La variación geológica y climática como impulsores de la diversidad taxonómica y filogenética en regiones biogeograficas contrastantes de Colombia"
+author:
+  - name: "Camilo Palacios-Hurtado"
+    email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: miami
+      - ref: unal
+    orcid: 0009-0001-9726-7945
+  - name: "Sebastián González-Caro"
+    # email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: unal
+      - ref: ux
+    orcid: 0000-0002-2287-7431
+  - name: "Nicolás Castaño"
+    # email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: sinchi
+    orcid: 0000-0003-2892-1074
+  - name: "Saúl Hoyos-Gómez"
+    # email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: hua
+    orcid: 0000-0001-7068-6667
+  - name: "Heriberto Antonio David-Higuita"
+    email: heriberto.david@udea.edu.co
+    affiliation:
+      - ref: hua
+    orcid: 0000-0002-2430-2973
+    # url: /people/david-higuita_heriberto-antonio/index.qmd
+  - name: "Felipe Alfonso Cardona-Naranjo"
+    email: felipe.cardona@udea.edu.co
+    affiliation:
+      - ref: hua
+    orcid: 0009-0008-6232-7371
+    # url: /people/cardona-naranjo_felipe-alfonso/index.qmd
+  - name: "Harley Quinto"
+    # email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: utch
+    orcid: 0000-0001-5989-4334
+  - name: "Mauricio Sánchez"
+    # email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: unal
+    orcid: 0000-0002-4983-436X
+  - name: "Miguel Peña"
+    # email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: unal
+    orcid: 0000-0002-8608-1790
+  - name: "Álvaro Duque"
+    # email: acpalaci@unal.edu.co
+    affiliation: 
+      - ref: unal
+    orcid: 0000-0001-5464-2058
+
+affiliations:
+  - id: miami
+    name: "Department of Biology, University of Miami, Miami, USA"
+  - id: unal
+    name: "Departamento de Ciencias Forestales, Universidad Nacional de Colombia, Medellín, Colombia"
+  - id: ux
+    name: "University of Exeter, UK"
+  - id: sinchi
+    name: "Instituto Amazónico de Investigaciones Científicas SINCHI, Bogotá, Colombia"
+  - id: hua
+    name: "Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+  - id: utch
+    name: "Facultad de Ciencias Exactas y Naturales, Universidad Tecnológica Del Chocó, Quibdó, Colombia"
+
+date: "2024-11-08 09:30"
+
+categories:
+  - Amazon
+  - Andes
+  - Choco
+  - Phylogenetic diversity
+  - Taxonomic diversity
+
+# draft: true
+---
+
+## Resumen
+
+La distribución de la biodiversidad en las regiones neotropicales, como el Amazonas, los Andes y el Chocó, ha sido un tema de gran interés científico. Este estudio examina la interacción entre la historia geológica, las dinámicas climáticas y los procesos evolutivos en estas áreas, utilizando datos de 48 parcelas permanentes de 1 hectárea para analizar la diversidad taxonómica y filogenética de las plantas leñosas de estas regiones. Se observó la mayor tasa de acumulación y riqueza de especies (SR) en el Amazonas, seguido por el Chocó y los Andes. Sorpresivamente, el Chocó mostró una riqueza de angiospermas SR y diversidad filogenética (PD) ligeramente superior a los Andes. Utilizando NMDS con las distancias de Sorenson y Phylosorenson, así como un EVOPCA; se identificaron tres grupos principales de comunidades arbóreas: los bosques montanos de los Andes, las selvas tropicales del Amazonas y un leve traslape entre los bosques de tierras bajas en los valles interandinos y el Chocó. Esto resalta como los bosques altoandinos y las selvas tropicales de la Amazonía, tuvieron historias evolutivas divergentes; mientras que se evidencian conexiones históricas en términos de migración de especies entre el Chocó y los bosques del Magdalena Medio. Modelos lineales mixtos se usaron para evaluar el impacto de las variables ambientales en las tasas de especiación por región. Aunque las variables climáticas tuvieron un efecto directo limitado en la diversidad filogenética y las tasas de especiación, la región biogeográfica emergió como un factor explicativo significativo, indicando la influencia de factores históricos y geológicos más allá de la precipitación y temperatura actuales. Este estudio desafía las nociones preconcebidas sobre la diversidad taxonómica y filogenética en el Amazonas, los Andes y el Chocó. Destacamos la importancia de considerar tanto la historia geológica como el clima en las evaluaciones de biodiversidad. 
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
