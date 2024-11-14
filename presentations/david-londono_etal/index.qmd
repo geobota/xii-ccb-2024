@@ -1,0 +1,44 @@
+---
+title: "Diversidad y distribución de especies del género <i>Magnolia</i> (Manoliaceae Juss.) en el departamento de Antioquia"
+author:
+  - name: "Maria Alejandra David Londoño"
+    email: mariadavid281071@correo.itm.edu.co
+    affiliation: 
+      - id: itm
+        name: "Semillero de investigación Infraverde, Línea de Vegetación e Infraestructura. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+  - name: "Stefanya Rúa Correa"
+    # email: correo@correo.itm.edu.co
+    affiliation: 
+      - ref: itm
+  - name: "Bladimir Vera-Marín"
+    email: bladimirvera4395@correo.itm.edu.co
+    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    orcid: 0000-0003-3275-5611
+date: "2024-11-05"
+
+categories:
+  - Conservación
+  - Distribución
+  - Diversidad
+  - Georreferenciación
+  - Magnoliaceae
+
+# draft: true
+---
+
+## Resumen
+
+Colombia presenta más de 36 especies nativas del género Magnolias, todas pertenecientes a la sección Talauma y distribuidas en tres subsecciones: Talauma (22 especies), Dugandiodendron (10 especies) y Chocotalauma (4 especies). Estos árboles o arbustos son típicos de bosques andinos y tropicales y se pueden encontrar principalmente en bosques húmedos y muy húmedos desde el nivel del mar hasta los 3300 msnm. El estudio se basó en la revisión de herbarios HUA, MEDEL, JAUM, HUCO y COL, utilizando técnicas geoespaciales en RStudio analizando la diversidad y distribución de las colecciones. En Antioquia, se registraron un total de 404 especies de Magnolias, los municipios con mayor frecuencia fueron Yarumal con 57 registros (14.11%), Urrao con 38 registros (9.41%), Jardín con 32 registros (7.92%) y Medellín con 30 registros (7.43%). Las especies más registradas fueron *Magnolia espinalii* (18), *Magnolia yarumalensis* (13) y *Magnolia silvioi* (12). Los municipios con mayor índice de diversidad fueron Yarumal (1.44), Anorí (1.56), Amalfi (1.54), Medellín (1.44), Frontino (1.37), Concepción (1.31), Urrao (1.25) y Barbosa (1.00). Estos resultados evidencian que la distribución concentrada de registros en municipios como Yarumal, Urrao, Jardín y Medellín indica que estas áreas poseen condiciones ambientales óptimas para las Magnolias, representando el 38.87% de los registros totales. La alta diversidad de especies en estos municipios resalta su importancia para la conservación de Magnolias endémicas. La georreferenciación y los índices de diversidad son herramientas cruciales para identificar áreas prioritarias para la conservación y protección de estos ecosistemas.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
