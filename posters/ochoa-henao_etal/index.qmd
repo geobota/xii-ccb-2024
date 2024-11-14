@@ -1,0 +1,51 @@
+---
+title: "Cobertura vegetal y beneficios ambientales en la ciudadela universitaria Pedro Nel Gómez"
+author:
+  - name: "Laura Alejandra Ochoa Henao"
+    email: lauraochoa305212@correo.itm.edu.co
+    affiliation: 
+      - id: itm
+        name: "Semillero de investigación Infraverde, Línea de Vegetación e Infraestructura. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+  - name: "Stefanía Zapata Montoya"
+    email: stefaniazapata315830@correo.itm.edu.co
+    affiliation:
+      - ref: itm
+  - name: "Sara Prisco Escobar"
+    # email: correo@correo.com
+    affiliation:
+      - ref: itm
+  - name: "Valeria Zapata Gutiérrez"
+    # email: correo@correo.com
+    affiliation:
+      - ref: itm
+  - name: "Bladimir Vera-Marín"
+    email: bladimirvera4395@correo.itm.edu.co
+    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    orcid: 0000-0003-3275-5611
+date: "2024-11-06 14:00"
+
+categories:
+  - Beneficios
+  - Ciudadela
+  - Cobertura
+  - Flora
+  - Universidad
+
+# draft: true
+---
+
+## Resumen
+
+El presente estudio se enfocó en evaluar la estructura y los beneficios ecosistémicos de las coberturas vegetales presentes en el Ciudadela Universitaria Pedro Nel Gómez, que incluye a las universidades Pascual Bravo, Instituto Tecnológico Metropolitano y Colegio Mayor. Se utilizó el software libre i-Tree Canopy para estimar y valorar el aporte de estas coberturas a la remoción de contaminantes atmosféricos. Los resultados revelan que el arbolado de estas instituciones educativas desempeña un papel crucial en la mitigación de la contaminación ambiental, secuestrando anualmente 19,82 toneladas de carbono. Además, se determinó que estas coberturas vegetales remueven 6,93 kg de carbono, 27,38 kg de dióxido de nitrógeno, 59,23 kg de dióxido de azufre y 132,31 kg de PM~10~ al año. Estos hallazgos subrayan la importancia de mantener y aumentar las áreas verdes en los campus universitarios no solo por sus beneficios estéticos y recreativos, sino también por su contribución significativa a la salud ambiental y la calidad del aire. La conservación y expansión de las coberturas vegetales en las universidades son esenciales para mejorar la calidad del aire y mitigar los efectos del cambio climático. Futuros estudios podrían explorar la diversificación de especies y la implementación de estrategias de manejo sostenible para maximizar estos beneficios ecosistémicos.
+
+<!-- ## Póster -->
+
+<!-- ```{=html} -->
+<!-- <object data="poster_xii-ccb.pdf" type="application/pdf" width="800" height="1150"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="poster_xii-ccb.pdf">clic aquí -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
