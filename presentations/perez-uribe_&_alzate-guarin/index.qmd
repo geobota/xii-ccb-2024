@@ -1,0 +1,44 @@
+---
+title: "Sobre los géneros <i>Guettarda</i> L. y <i>Tournefortiopsis</i> Rusby. (Rubiaceae) para el departamento de Antioquia"
+author:
+  - name: "David Pérez-Uribe"
+    email: david.perezu@udea.edu.co
+    affiliation:
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    # orcid: 0000-0002-1634-4735
+    # url: /people/salazar-sanchez_manuela/index.qmd
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation:
+      - ref: udea
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-07 10:00"
+
+categories:
+  - Chomelia
+  - Guettardeae
+  - Nomenclatura
+  - Stenostomum
+  - Taxonomía
+
+# draft: true
+---
+
+## Resumen
+
+*Guettarda* L (Guettardeae) es uno de los géneros más grandes dentro de la familia Rubiaceae, incluye árboles y arbustos pequeños, con una distribución pantropical y cerca de 130 especies, cantidad que se ha reducido debido a que varias especies que se incluían originalmente en este se han transferido a otros géneros como *Stenostomum* C.F. Gaertn. o *Tournefortiopsis* Rusby, transferencias que se vieron motivadas a raíz de un estudio filogenético, en donde *Guettarda* como se circunscribía anteriormente resulto ser polifilético, con algunas especies agrupándose en el clado monofilético *Guettarda* s.str. y otras dos especies agrupándose en un clado separado de este, las cuales fueron posteriormente transferidas al género *Tournefortiopsis*. En este trabajo se presenta el estudio taxonómico de *Guettarda* y *Tournefortiopsis* para el departamento de Antioquia, para lo cual se revisaron todos los nombres publicados de ambos géneros, incluyendo protólogos, especímenes tipos alojados en herbarios virtuales o en Global Plants, así como también las colecciones depositadas en los principales herbarios de Antioquia. Se realizaron claves taxonómicas dicotómicas, descripciones morfológicas, comentarios nomenclaturales, mapas de distribución y estudios fenológicos para las especies presentes en Antioquia.  Por otra parte, para el departamento de Antioquia se reportaban 7 especies de *Guettarda* y ninguna de *Tournefortiopsis*, en esta revisión se encontró que ambos géneros poseen 4 especies a nivel regional, además para *Tournefortiopsis* se detectó una especie nueva para la ciencia colectada en el municipio de Sonsón y para *Guettarda* un nuevo registro. Finalmente se resalta la necesidad de estudiar el complejo de especies *Tournefortiopsis crispiflora* (Vahl) Borhidi acompañado de datos moleculares con el fin de poder entender la taxonomía de este grupo. 
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
