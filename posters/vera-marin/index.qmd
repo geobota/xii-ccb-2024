@@ -12,7 +12,7 @@ categories:
   - Plantas nativas
   - Transmisión de conocimiento
 
-draft: true
+# draft: true
 ---
 
 ## Resumen
