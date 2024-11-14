@@ -1,0 +1,32 @@
+---
+title: "Los páramos, su flora y su vulnerabilidad frente al fenómeno ENSO"
+author:
+  - name: "Fernando Alveiro Alzate-Guarin"
+    email: alveiro.alzate@udea.edu.co
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0002-4916-8897
+    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+date: "2024-11-05 10:15"
+
+categories:
+  - Cambio climático
+  - Incendios forestales
+  - Restauración
+  - Síndrome de afectación del frailejón
+
+# draft: true
+---
+
+## Resumen
+
+ENSO es un fenómeno climático más especialmente evidenciable en Suramérica y que incluye la ocurrencia de El Niño y La Niña y el cual genera grandes cambios en el comportamiento meteorológico. Este fenómeno de marcado cambio climático ha llevado a generar diferentes afectaciones en los páramos del país, especialmente problemas de tipo fitosanitario y una alta ocurrencia de incendios en las coberturas vegetales. Los páramos en Colombia se encuentran ordenados en 39 complejos distribuidos en la cordillera Occidental (20), Central (11), Oriental (7) y Sierra Nevada de Santa Marta (1). Estudios realizados en Colombia en poblaciones de Espeletia grandiflora Bonpl., han encontrado la ocurrencia actual de hongos fitopatógenos propios de cultivos de zonas de menores altitudes de los géneros Phytophthora, Pythium y Fusarium. Así mismo, otros estudios realizados han encontrado que polillas, hongos y escarabajos están afectando poblaciones de Espeletia, Puya, Chusquea y Cavendishia en los páramos de la cordillera Oriental, incidiendo en alta mortalidad de individuos. Las hipótesis explicativas apuntan a que el aumento de la temperatura y la actividad agrícola son los responsables de estos cambios poblacionales. La exploración de campo y la compilación de datos de estudios realizados en un amplio número de páramos de Colombia, permitió realizar un diagnóstico de la ocurrencia de diferentes afectaciones en la vegetación paramuna, representado en problemas fitosanitarios, atribuible a la variación climática, principalmente el llamado síndrome de afectación del frailejón, así como otro tipo de susceptibilidades como la propensión a incendios y cambios en la estructura del suelo, debido a sequias prolongadas. Debido al grado de endemicidad de la biota de páramo, esta requiere de un manejo y cuidado prioritarios, ya que, según las estimaciones para el caso de las especies de los páramos de Antioquia, cerca de 20-30% de las plantas podrían presentar algún riesgo de extinción.
+
+<!-- ## Presentación -->
+
+<!-- ```{=html} -->
+<!-- <iframe width="800" height="475" src="https://alexespinosaco.github.io/xii-ccb-aerobiologia/" title="Presentación XII CCB"></iframe> -->
+<!-- ``` -->
+
+<!-- Si no puedes ver la presentación, mírala haciendo [clic aquí](https://alexespinosaco.github.io/xii-ccb-aerobiologia/). -->
+
+<!-- ## Citación -->
