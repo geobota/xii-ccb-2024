@@ -1,0 +1,36 @@
+---
+title: "Diversidad y distribución geográfica de <i>Epidendrum</i> L. en el departamento de Antioquia (Colombia)"
+author:
+  - name: "Andrea Ríos Ruiz"
+    email: andrearios301339@correo.itm.edu.co
+    affiliation: "Semillero de investigación Infraverde, Línea de Vegetación e Infraestructura. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+  - name: "Bladimir Vera-Marín"
+    email: bladimirvera4395@correo.itm.edu.co
+    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    orcid: 0000-0003-3275-5611
+date: "2024-11-05"
+
+categories:
+  - Abundancia
+  - Conservación
+  - Orquídeas
+
+# draft: true
+---
+
+## Resumen
+
+El género *Epidendrum* L. es destacado en Colombia, con aproximadamente 2.400 especies, siendo el género con mayor número de orquídeas conocidas en el país. En Antioquia, se han identificado 115 especies, incluyendo 25 endémicas. Estas orquídeas son epífitas y se distribuyen desde el nivel del mar hasta zonas de páramo, con características distintivas en sus tallos y hojas. Sin embargo, su diversidad se ha subestimado debido a la falta de especímenes representativos en colecciones y herbarios. La deforestación y sobreexplotación comercial han impactado negativamente su diversidad, llevando a la inclusión de varias especies en apéndices de la CITES. La Resolución 192 de 2014 categoriza 207 especies de orquídeas como amenazadas en Colombia. El estudio se enfoca en analizar la diversidad del género *Epidendrum* en el departamento de Antioquia, revisando datos de herbarios como HUA, MEDEL, JAUM, HUCO y COL. Se realizó un análisis descriptivo de especies y georreferenciación utilizando herramientas como Microsoft Power BI y Rstudio. Se emplearon técnicas geoespaciales para visualizar la distribución de las colecciones. Los resultados destacan que el área metropolitana y el suroeste de Antioquia tienen el mayor número de registros y diversidad del género, mientras que Magdalena Medio muestra menor representación en los herbarios. *Epidendrum scytocladium* Schltr y *Epidendrum fimbriatum* Kunth son las especies más registradas. Comprender la diversidad y distribución de este género en el departamento es crucial para la conservación y manejo ecológico, identificando áreas de conocimiento insuficiente y necesidades de enriquecimiento de datos.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
