@@ -14,7 +14,7 @@ author:
     email: bladimirvera4395@correo.itm.edu.co
     affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
     orcid: 0000-0003-3275-5611
-date: "2024-11-05"
+date: "2024-11-06 09:30"
 
 categories:
   - Conservación
