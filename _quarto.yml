@@ -39,6 +39,10 @@ website:
             href: https://geobota.github.io/xii-ccb-aerobiologia/
           - text: "Investigación Reproducible con Quarto"
             href: https://geobota.github.io/xii-ccb-quarto/
+      - text: "Ponencias"
+        href: index.qmd#sec-presentations
+      - text: "Pósters"
+        href: index.qmd#sec-posters
       - text: "XII CCB"
         href: https://congresobotanica.org/
       - text: "ACB"
@@ -51,7 +55,6 @@ website:
         href: https://www.instagram.com/geobotaudea/
       - icon: github
         href: https://github.com/geobota/xii-ccb-2024/
-        
 
   page-footer:
     center: Made by [\@alexespinocaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
