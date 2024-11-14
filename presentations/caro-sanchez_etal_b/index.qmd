@@ -9,15 +9,15 @@ author:
     orcid: 0000-0001-8751-7931
     # url: /people/caro-sanchez-angy-vanesa/index.qmd
   - name: "Manuel Luján"
-    # email: correo@correo.com
+    email: m.lujan@kew.org
     affiliation: "Kew Royal Botanic Gardens"
     orcid: 0000-0001-6822-7269
   - name: "Lucas Cardoso Marinho"
-    # email: correo@correo.com
+    email: lc.marinho@ufma.br
     affiliation: "Grupo de Pesquisa em Sistemática e Taxonomia de Angiospermas, Departamento de Biología, Universidade Federal do Maranhão"
     orcid: 0000-0003-1263-3414
   - name: "Álvaro Idárraga-Piedrahíta"
-    # email: correo@correo.com
+    email: alvaro.idarraga@jbotanico.org
     affiliation: "Fundación Jardín Botánico de Medellín"
     orcid: 0000-0002-4823-8849
   - name: "Fernando Alveiro Alzate-Guarin"
