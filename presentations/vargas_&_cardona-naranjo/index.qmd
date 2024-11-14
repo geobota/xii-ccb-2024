@@ -10,7 +10,7 @@ author:
     affiliation: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0009-0008-6232-7371
     # url: /people/cardona-naranjo_felipe-alfonso/index.qmd
-date: "2024-11-05"
+date: "2024-11-05 10:40"
 
 categories:
   - Extinta en estado silvestre
