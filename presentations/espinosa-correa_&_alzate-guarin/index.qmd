@@ -32,7 +32,7 @@ La aerobiología es una ciencia interdisciplinaria que estudia las partículas d
 ## Presentación
 
 ```{=html}
-<iframe class="slide-deck" src="https://alexespinosaco.github.io/xii-ccb-aerobiologia/" title="Presentación XII CCB"></iframe>
+<iframe width="800" height="475" src="https://alexespinosaco.github.io/xii-ccb-aerobiologia/" title="Presentación XII CCB"></iframe>
 ```
 
 Si no puedes ver la presentación, mírala haciendo [clic aquí](https://alexespinosaco.github.io/xii-ccb-aerobiologia/).
