@@ -10,7 +10,7 @@ author:
         namen: "Grupo de investigación de Biosistemática, Departamento de Biología, Programa de Biología, Facultad de Ciencias Naturales y Exactas, Universidad Tecnológica del Chocó Diego Luis Córdoba"
     orcid: 0000-0002-6656-9932
     # url: /people/perez-mosquera_jhon-freddys/index.qmd
-  - name: "Bladimir Vera Marín"
+  - name: "Bladimir Vera-Marín"
     email: bladimirvera4395@correo.itm.edu.co
     affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
     orcid: 0000-0003-3275-5611
