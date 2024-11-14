@@ -1,0 +1,33 @@
+---
+title: "¿Conservación de conocimiento o pérdida de diversidad local? Estudio de plantas usadas por la comunidad de San Cristóbal (Medellín – Colombia)"
+author:
+  - name: "Bladimir Vera-Marín"
+    email: bladimirvera4395@correo.itm.edu.co
+    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    orcid: 0000-0003-3275-5611
+# date: ""
+
+categories:
+  - Etnobotánica 
+  - Plantas nativas
+  - Transmisión de conocimiento
+
+draft: true
+---
+
+## Resumen
+
+Los estudios etnobotánicos se han dedicado a preservar el conocimiento ancestral de las comunidades locales, el cual puede estar influenciado por otros conocimientos externos o fusiones culturales, generando una diversidad de saberes a lo largo de las distintas generaciones. Este estudio tuvo como objetivo describir los diversos usos de las plantas en la comunidad de San Cristóbal (ubicada en el corregimiento de Medellín-Antioquia) y determinar su valor de uso entre personas mayores y jóvenes, con el fin de evaluar la conservación de estos conocimientos botánicos en la zona. Se identificaron un total de 67 especies de plantas con usos variados, pertenecientes a 62 géneros y 29 familias. Entre las más representativas se encuentran las familias Asteraceae, Lamiaceae y Verbenaceae. Tanto las personas mayores como los jóvenes demostraron un mayor conocimiento en el uso medicinal y alimenticio de las plantas, tanto nativas como introducidas. Los resultados sugieren que la "hipótesis de diversificación" explica los diversos usos de las plantas, tanto nativas como introducidas, en el área de estudio por ambos grupos poblacionales, lo que amplía la comprensión del uso de plantas en la región. Es importante fomentar estudios que no solo reconozcan el saber tradicional, sino que también promuevan la conservación del uso de las plantas locales, contribuyendo así a preservar la diversidad vegetal en la zona.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
