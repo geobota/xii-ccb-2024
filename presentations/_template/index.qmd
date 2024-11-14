@@ -27,15 +27,15 @@ draft: true
 
 TEXTO
 
-## Presentación
+<!-- ## Presentación -->
 
 <!-- PDF -->
-```{=html}
-<object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540">
-    <p>Parece que no tienes un plugin PDF para este navegador.
-    No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí 
-    para descargar el archivo PDF.</a></p>
-</object>
-```
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
 
 <!-- ## Citación -->
