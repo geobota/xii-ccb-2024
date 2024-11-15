@@ -1,0 +1,33 @@
+---
+title: "Plantas útiles reconocidas por la población infantil del corregimiento de San Cristóbal (Medellín - Colombia)"
+author:
+  - name: "Bladimir Vera-Marín"
+    email: bladimir.vera@udea.edu.co
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    orcid: 0000-0003-3275-5611
+# date: ""
+
+categories:
+  - Conocimiento tradicional
+  - Uso de plantas
+  - Niños
+
+# draft: true
+---
+
+## Resumen
+
+Los estudios etnobotánicos han centrado su atención en el registro y conservación del conocimiento tradicional de poblaciones locales sobre todo en personas mayores en las diferentes comunidades, pero ahora se considera pertinente desarrollar estudios en poblaciones infantiles y juveniles para evaluar los saberes en las comunidades. El objetivo de este estudio fue evaluar el conocimiento tradicional que presentan un grupo infantil y juvenil del corregimiento de San Cristóbal (Medellín), identificando y documentando las especies vegetales utilizadas y los diferentes usos que este grupo poblacional tenía conocimiento sobre las plantas. Se realizaron 24 talleres etnobotánicos, presentando 105 especies de plantas colectadas de huertos locales. Los participantes identificaron un total de 34 especies con diferentes categorías de uso. Los resultados evidencian 34 géneros y 18 familias, donde los taxa mayormente identificadas fueron Asteraceae, Lamiaceae, Acanthaceae y Verbenaceae. Las categorías de uso más representativas fueron medicinales y alimentación humana. Muchos de los conocimientos son aprendidos por los participantes por medio de las actividades cotidianas con sus padres, en procesos sociales y escolares con sus pares. Es pertinente considerar estudios que conlleven no solo al reconocimiento del saber tradicional, sino a la conservación del uso de las plantas locales, preservando así la diversidad vegetal de la zona.
+
+<!-- ## Presentación -->
+
+<!-- PDF -->
+<!-- ```{=html} -->
+<!-- <object data="presentacion_xii-ccb.pdf" type="application/pdf" width="800" height="540"> -->
+<!--     <p>Parece que no tienes un plugin PDF para este navegador. -->
+<!--     No pasa nada… puede hacer <a href="presentacion_xii-ccb.pdf">clic aquí  -->
+<!--     para descargar el archivo PDF.</a></p> -->
+<!-- </object> -->
+<!-- ``` -->
+
+<!-- ## Citación -->
