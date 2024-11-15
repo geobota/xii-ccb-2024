@@ -5,8 +5,8 @@ author:
     email: andrearios301339@correo.itm.edu.co
     affiliation: "Semillero de investigación Infraverde, Línea de Vegetación e Infraestructura. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
   - name: "Bladimir Vera-Marín"
-    email: bladimirvera4395@correo.itm.edu.co
-    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    email: bladimir.vera@udea.edu.co
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0000-0003-3275-5611
 date: "2024-11-05"
 

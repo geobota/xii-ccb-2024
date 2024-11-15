@@ -5,7 +5,7 @@ author:
     email: bladimir.vera@udea.edu.co
     affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0000-0003-3275-5611
-# date: ""
+date: "2024-11-05 09:00"
 
 categories:
   - Conocimiento tradicional

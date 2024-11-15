@@ -11,8 +11,9 @@ author:
     orcid: 0000-0002-6656-9932
     # url: /people/perez-mosquera_jhon-freddys/index.qmd
   - name: "Bladimir Vera-Marín"
-    email: bladimirvera4395@correo.itm.edu.co
-    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    email: bladimir.vera@udea.edu.co
+    affiliation:
+      - ref: udea
     orcid: 0000-0003-3275-5611
   - name: "Mario Alberto Quijano-Abril"
     email: maquijano@uco.edu.co

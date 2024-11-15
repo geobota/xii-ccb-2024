@@ -12,12 +12,15 @@ author:
       - ref: itm
   - name: "Álex Espinosa-Correa"
     email: alex.espinosa@udea.edu.co
-    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
+    affiliation: 
+      - id: udea
+        name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0000-0002-7353-1182
     # url: /people/espinosa-correa_alex/index.qmd
   - name: "Bladimir Vera-Marín"
-    email: bladimirvera4395@correo.itm.edu.co
-    affiliation: "Grupo Química Básica, aplicada y ambiente Alquimia. Facultad de Ciencias Exactas y Aplicadas, Instituto Tecnológico Metropolitano"
+    email: bladimir.vera@udea.edu.co
+    affiliation: 
+      - ref: udea
     orcid: 0000-0003-3275-5611
 date: "2024-11-06 14:00"
 
