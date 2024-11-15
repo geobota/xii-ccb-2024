@@ -9,7 +9,7 @@ author:
     orcid: 0009-0009-5005-0405
     # url: /people/herrera-pacheco_mayra-alejandra/index.qmd
   - name: "Lucas Cardoso Marinho"
-    # email: correo@correo.com
+    email: lc.marinho@ufma.br
     affiliation: "Grupo de Pesquisa em Sistemática e Taxonomia de Angiospermas, Departamento de Biología, Universidade Federal do Maranhão"
     orcid: 0000-0003-1263-3414
   - name: "Fernando Alveiro Alzate-Guarin"
