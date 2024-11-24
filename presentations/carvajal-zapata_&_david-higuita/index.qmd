@@ -11,7 +11,7 @@ author:
       - id: udea
         name: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0000-0002-2430-2973
-    # url: /people/david-higuita_heriberto-antonio/index.qmd
+    url: https://geobota.github.io/people/david-higuita_heriberto-antonio/
 date: "2024-11-07 09:45"
 
 categories:

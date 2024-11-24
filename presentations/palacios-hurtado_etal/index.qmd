@@ -28,13 +28,13 @@ author:
     affiliation:
       - ref: hua
     orcid: 0000-0002-2430-2973
-    # url: /people/david-higuita_heriberto-antonio/index.qmd
+    url: https://geobota.github.io/people/david-higuita_heriberto-antonio/
   - name: "Felipe Alfonso Cardona-Naranjo"
     email: felipe.cardona@udea.edu.co
     affiliation:
       - ref: hua
     orcid: 0009-0008-6232-7371
-    # url: /people/cardona-naranjo_felipe-alfonso/index.qmd
+    url: https://geobota.github.io/people/cardona-naranjo_felipe-alfonso/
   - name: "Harley Quinto"
     # email: acpalaci@unal.edu.co
     affiliation: 

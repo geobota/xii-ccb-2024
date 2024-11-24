@@ -7,13 +7,13 @@ author:
       - id: udea
         name: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     # orcid: 0000-0002-1634-4735
-    # url: /people/salazar-sanchez_manuela/index.qmd
+    url: https://geobota.github.io/people/perez-uribe_david/
   - name: "Fernando Alveiro Alzate-Guarin"
     email: alveiro.alzate@udea.edu.co
     affiliation:
       - ref: udea
     orcid: 0000-0002-4916-8897
-    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
 date: "2024-11-07 10:00"
 
 categories:

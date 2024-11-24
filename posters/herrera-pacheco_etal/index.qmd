@@ -7,7 +7,7 @@ author:
       - id: udea
         name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0009-0009-5005-0405
-    # url: /people/herrera-pacheco_mayra-alejandra/index.qmd
+    url: https://geobota.github.io/people/herrera-pacheco_mayra-alejandra/
   - name: "Lucas Cardoso Marinho"
     email: lc.marinho@ufma.br
     affiliation: "Grupo de Pesquisa em Sistemática e Taxonomia de Angiospermas, Departamento de Biología, Universidade Federal do Maranhão"
@@ -17,7 +17,7 @@ author:
     affiliation:
       - ref: udea
     orcid: 0000-0002-4916-8897
-    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
 date: "2024-11-08 14:00"
 
 categories:

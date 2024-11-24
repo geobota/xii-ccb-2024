@@ -7,7 +7,7 @@ author:
       - id: udea
         name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0000-0002-6656-9932
-    # url: /people/rojas-villa_jose-miguel/index.qmd
+    url: https://geobota.github.io/people/rojas-villa_jose-miguel/
   - name: "Mario Alberto Quijano-Abril"
     email: maquijano@uco.edu.co
     affiliation: "Grupo de Estudios Florísticos, Facultad de Ingenierías, Universidad Católica de Oriente"
@@ -21,7 +21,7 @@ author:
     affiliation:
       - ref: udea
     orcid: 0000-0002-4916-8897
-    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
 date: "2024-11-07 16:00"
 
 categories:

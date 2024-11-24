@@ -7,7 +7,7 @@ author:
       - id: udea
         name: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0000-0001-8751-7931
-    # url: /people/caro-sanchez-angy-vanesa/index.qmd
+    url: https://geobota.github.io/people/caro-sanchez_angy-vanesa/
   - name: "Manuel Luján"
     email: m.lujan@kew.org
     affiliation: "Kew Royal Botanic Gardens"
@@ -25,7 +25,7 @@ author:
     affiliation:
       - ref: udea
     orcid: 0000-0002-4916-8897
-    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
 date: "2024-11-08 10:00"
 
 categories:

@@ -9,7 +9,7 @@ author:
       - id: utch
         namen: "Grupo de investigación de Biosistemática, Departamento de Biología, Programa de Biología, Facultad de Ciencias Naturales y Exactas, Universidad Tecnológica del Chocó Diego Luis Córdoba"
     orcid: 0000-0002-6656-9932
-    # url: /people/perez-mosquera_jhon-freddys/index.qmd
+    url: https://geobota.github.io/people/perez-mosquera_jhon-freddys/
   - name: "Bladimir Vera-Marín"
     email: bladimir.vera@udea.edu.co
     affiliation:
@@ -24,7 +24,7 @@ author:
     affiliation:
       - ref: udea
     orcid: 0000-0002-4916-8897
-    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
 date: "2024-11-06 09:55"
 
 categories:

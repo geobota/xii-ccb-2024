@@ -9,7 +9,7 @@ author:
     email: felipe.cardona@udea.edu.co
     affiliation: "Grupo de Estudios Botánicos GEOBOTA y Herbario Universidad de Antioquia HUA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
     orcid: 0009-0008-6232-7371
-    # url: /people/cardona-naranjo_felipe-alfonso/index.qmd
+    url: https://geobota.github.io/people/cardona-naranjo_felipe-alfonso/
 date: "2024-11-05 10:40"
 
 categories:

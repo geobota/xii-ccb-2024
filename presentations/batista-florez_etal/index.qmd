@@ -12,13 +12,13 @@ author:
     affiliation:
       - ref: udea
     orcid: 0000-0002-7353-1182
-    # url: /people/espinosa-correa_alex/index.qmd
+    url: https://geobota.github.io/people/espinosa-correa_alex/
   - name: "Fernando Alveiro Alzate-Guarin"
     email: alveiro.alzate@udea.edu.co
     affiliation:
       - ref: udea
     orcid: 0000-0002-4916-8897
-    # url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    url: https://geobota.github.io/people/alzate-guarin_fernando-alveiro/
 date: "2024-11-07 08:45"
 
 categories:
