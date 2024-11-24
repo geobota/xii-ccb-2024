@@ -29,11 +29,20 @@ categories:
   - Sitios sagrados
 
 # draft: true
+
+bibliography: references.bib
+nocite: |
+  @noauthor_agencia_nodate; @igac_colombia_nodate; @v._hna_diccionario_1992
 ---
 
 ## Resumen
 
 En la cordillera Occidental, al noroccidente del departamento de Antioquia, Colombia, se encuentra la Serranía de Abibe, donde están establecidas las comunidades Emberá de Polines, Chigorodocito y Guapá, dentro de los resguardos indígenas de Polines y Yhaberaradó. Este trabajo busca identificar la existencia de patrones lingüísticos de la lengua Emberá, utilizados para nombrar las plantas de tres sitios sagrados para esta comunidad, ubicados en una zona de vida correspondiente a bosque muy húmedo tropical (bmh-T). Un equipo interdisciplinar realizó exploraciones entre finales de 2019 y principios de 2020 en los asentamientos Emberá de Polines, Chigorodocito y Guapá Alto, de las cuales se obtuvo una muestra limitada de flora de los tres sitios sagrados, todo bajo autorización y supervisión del Jaibaná. Los nombres en la lengua Emberá fueron proporcionados por el Jaibaná y miembros de la comunidad. La identificación de las especies recolectadas fue realizada en el herbario de la Universidad de Antioquia (HUA). Habiendo identificado 46 especies de plantas con sus nombres en lengua Emberá distribuidas en 36 géneros y 28 familias, se pudieron distinguir 16 prefijos y sufijos usados de manera consistente en estos, además de documentar con información de primera mano los usos etnobotánicos de estas especies dentro de la comunidad. Se lograron establecer categorías que agrupan dichos prefijos y sufijos en relación a la forma, hábito, uso y otras características como la fructificación. Se concluye que aunque la comunidad Emberá no tiene una nomenclatura biológica sistemática, es evidente la existencia de prefijos y sufijos usados para nombrar las plantas según las características de estas.
+
+## Referencias
+
+::: {#refs}
+:::
 
 <!-- ## Póster -->
 
