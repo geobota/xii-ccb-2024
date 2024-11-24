@@ -4,6 +4,8 @@ project:
 lang: es
 date-format: iso
 
+csl: apa.csl
+
 execute:
     freeze: auto
 
