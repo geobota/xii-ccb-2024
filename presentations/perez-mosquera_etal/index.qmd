@@ -7,7 +7,7 @@ author:
       - id: udea
         name: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA"
       - id: utch
-        namen: "Grupo de investigación de Biosistemática, Departamento de Biología, Programa de Biología, Facultad de Ciencias Naturales y Exactas, Universidad Tecnológica del Chocó Diego Luis Córdoba"
+        name: "Grupo de investigación de Biosistemática, Departamento de Biología, Programa de Biología, Facultad de Ciencias Naturales y Exactas, Universidad Tecnológica del Chocó Diego Luis Córdoba"
     orcid: 0000-0002-7018-3442
     url: https://geobota.github.io/people/perez-mosquera_jhon-freddys/
   - name: "Bladimir Vera-Marín"
